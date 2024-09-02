@@ -1,11 +1,5 @@
 # Capstone Project - Group 10 - HR Analytics 
 
-## Members		
-	Gaurav Ranjan	- G23AI1011
-	Swetlina Nayak - G23AI1047
-	Somalaya Mondal - G23AI1042
-	Vishal Kumar - G23AI1071
-	Pooja Yadav - G23AI1026
 
 ## Problem Statement
 
